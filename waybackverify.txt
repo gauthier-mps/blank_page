@@ -1,0 +1,1 @@
+Hello wayback machine, I would like to exclude all records from this website from wayback machine. Thanks
